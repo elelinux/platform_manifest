@@ -18,6 +18,9 @@
            fetch="https://github.com/omnirom"
            review="gerrit.omnirom.org" />
 
+  <remote  name="private"
+           fetch="ssh://git@github.com" />
+
 
   <default revision="refs/tags/android-5.0.0_r7"
            remote="aosp"
