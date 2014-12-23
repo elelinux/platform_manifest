@@ -18,12 +18,11 @@
            fetch="https://github.com/omnirom"
            review="gerrit.omnirom.org" />
 
-  <remote name="elelinux"
+  <remote name="github"
            fetch="https://github.com/elelinux" />
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
-
 
   <default revision="refs/tags/android-5.0.2_r1"
            remote="aosp"
