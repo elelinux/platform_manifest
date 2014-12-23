@@ -18,9 +18,11 @@
            fetch="https://github.com/omnirom"
            review="gerrit.omnirom.org" />
 
-  <remote name="elelinux"
-           fetch="https://github.com/elelinux" 
-           review="gerrit.elelinux.org" />
+  <remote  name="github"
+           fetch="git://github.com/"/>
+
+  <remote  name="elelinux"
+           fetch=".." />
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
