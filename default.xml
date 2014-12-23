@@ -49,7 +49,7 @@
   <project path="device/generic/arm64" name="CyanogenMod/android_device_generic_arm64" groups="pdk" remote="cm" revision="cm-12.0" />
   <project path="device/generic/armv7-a-neon" name="CyanogenMod/android_device_generic_armv7-a-neon" groups="pdk" remote="cm" revision="cm-12.0" />
   <project path="device/generic/common" name="CyanogenMod/android_device_generic_common" groups="pdk" remote="cm" revision="cm-12.0" />
-  <project path="device/generic/goldfish" name="CyanogenMod/android_device_generic_goldfish" groups="pdk"remote="cm" revision="cm-12.0" />
+  <project path="device/generic/goldfish" name="CyanogenMod/android_device_generic_goldfish" groups="pdk" remote="cm" revision="cm-12.0" />
   <project path="device/generic/mips" name="CyanogenMod/android_device_generic_mips" groups="pdk" remote="cm" revision="cm-12.0" />
   <project path="device/generic/mini-emulator-arm64" name="device/generic/mini-emulator-arm64" groups="pdk" />
   <project path="device/generic/mini-emulator-armv7-a-neon" name="device/generic/mini-emulator-armv7-a-neon" groups="pdk" />
